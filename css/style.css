@@ -227,7 +227,7 @@ header .container .social i {
 
 @media(max-width: 768px) {
     .hero .container .hero-img img {
-        width: 500px;
+        width: 400px;
     }
 
 }
