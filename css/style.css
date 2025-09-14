@@ -222,7 +222,7 @@ header .container .social i {
 .hero .container .hero-img img {
     width: 600px;
     border: none;
-margin-buttom: 5px;
+    
 }
 
 @media(max-width: 768px) {
@@ -453,6 +453,12 @@ color: var(--maincolor);
     flex-direction: column;
     text-align: center;
    }
+    .about-us p {
+    font-size: 17px;
+    line-height: 1.8;
+    text-align: right;
+}
+   }
    .about-info ,
 .about-img {
     width: 100%;
@@ -463,7 +469,6 @@ color: var(--maincolor);
 .about-us .about-call {
     margin-bottom: 25px;
 
-}
 }
 .about-us .about-call::before {
     position: absolute;
